@@ -123,13 +123,6 @@ h4{
   position: relative;
 }
 .searchbar{
-  /* height: 100px;
-  width: 100vw;
-  position: absolute;
-  /* left: 50%; */
-  /* margin-left: -50px;
-  top: 50%;
-  margin-top: -50px; */
   position: absolute;
   top: 50%;
   left: 50%;
@@ -173,4 +166,90 @@ span{
 margin-left: 3px;
 color: #22235F;
 }
+/* home styles */
+.home_top_section{
+ margin-top: 10px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_links{
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  align-items: center;
+  list-style: none;
+  color: #22235F;
+  margin-left: 600px;
+}
+.nav_buttons {
+  margin-right: 36px;
+}
+hr{
+  margin-top: 15px;
+ color: #22235F;
+}
+.left_content{
+margin-top: 53px;
+margin-left: 61px;
+display: flex;
+}
+.left_menu{
+  list-style: none;
+  color: #22235F;
+}
 
+
+nav left 
+h1{
+  color: #22235F;
+}
+.two_line{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+}
+.three_line{
+  margin-left: 100px;
+  margin-top: 38px;
+  font-weight: bolder;
+  size: 20px;
+}
+.fourth_line{
+margin-left: 100px;
+ margin-top: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: lighter;
+font-size: 20px;
+}
+.fifth_line{
+  margin-left: 100px;
+  margin-top: 25px;
+ font-family: 'Inter';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 20px;
+ font-weight: lighter;
+}
+.rare_book{
+margin-top: 126px;
+margin-left: 20px;
+margin-right: 25px;
+}
+.right_content{
+margin-top: 53px;
+margin-left: 300px;
+}
+.three{
+  margin-left: 21px;
+}
+.two{
+  margin-right: px;
+}
+.one{
+  margin-right: 21px;
+}
